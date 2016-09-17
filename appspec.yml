@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /public/index.html
+  - source: /examples/chat/public/index.html
     destination: /var/www/html/
 overwrite: yes
 
